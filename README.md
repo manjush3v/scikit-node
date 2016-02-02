@@ -1,12 +1,12 @@
 #Scikit-Node NPM Module
 
-##<a name='contents' href='#'/> Contents
+Contents
 
-[What is Scikit-Node?](#about)  
-[Setup Process](#setup)  
-[API](#use)  
-[skLearn](#sk)  
-[Helper Methods](#halp)  
+[What is Scikit-Node?]
+[Setup Process]
+[API]
+[skLearn]
+[Helper Methods]
 
 ##  What is Scikit-Node
 
