@@ -1,13 +1,5 @@
 #Scikit-Node NPM Module
 
-Contents
-
-[What is Scikit-Node?]
-[Setup Process]
-[API]
-[skLearn]
-[Helper Methods]
-
 ##  What is Scikit-Node
 
 Scikit-Node is an npm wrapper for Python's scikit-learn library.  Using this module, you can use scikit-learn a node.js server.  To learn more about scikit-learn, please go to http://scikit-learn.org/stable/.  The methods on the Scikit-node Module spawn a python process that executes scikit-learn estimators and methods.  The results from these algorithms are then streamed up to node.
